@@ -1,0 +1,3 @@
+mongodb+srv://xavier:A9oHyVBh4144HF8u@cluster0.dplsa.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
+heroku config:set MONGODB_URI="mongodb+srv://xavier:A9oHyVBh4144HF8u@cluster0.dplsa.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
