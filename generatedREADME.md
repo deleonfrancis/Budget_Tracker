@@ -1,4 +1,4 @@
-# [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 # Progressive Budget
 
 > User can use this web application to keep track of spending and income.
@@ -17,7 +17,7 @@
 ---
 
 ## Description
-Using this web app, the user can keep track of expenditures on or offline. If the user is off line, her or inputs will be saved in the indexedDB, once the user is back online indexedDB is emptied and the data is stored in the database. 
+Using this web app, the user can keep track of spendatures on or offline. If the user is off line, her or inputs will be saved in the indexedDB, once the user is back online indexedDB is empted and the data is stored in the database. 
 
 ---
 
@@ -35,7 +35,7 @@ HTML, CSS, JavaScript, Node.js, express, IndexedDB.
 ---
 
 ## How To Use
-Simply type in an income or spending venture, and click the corresponding  add or subtract button. Transactions and your current total will be displayed on the page.
+Simply type in an income or spending venture, and click the corresponding  add or subract buttom. Transactions and your current total will be displayed on the page.
    
    [Back To The Top](#read-me-template)
    
